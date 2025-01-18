@@ -2,10 +2,6 @@
 
 ## Как запустить
 
-```shell
-cd mongo-sharding-repl-cache
-```
-
 Запускаем mongodb, redis и приложение
 ```shell
 docker compose up -d
